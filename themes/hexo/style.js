@@ -8,7 +8,7 @@ const Style = () => {
   return (<style jsx global>{`
     // 底色
     body{
-        background-color: #f5f5f5
+        background-color: #ffd9d9
     }
     .dark body{
         background-color: black;
@@ -26,7 +26,7 @@ const Style = () => {
     
     #theme-hexo .menu-link:hover {
         background-size: 100% 2px;
-        color: 	#FFB6C1;
+        color: 	#6456b7;
     }
 
     /* 设置了从上到下的渐变黑色 */
